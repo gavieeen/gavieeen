@@ -1,8 +1,8 @@
-[center][size=5][color=#4CAF50]👋 Hi, I’m [user]@gavieeen[/user][/color][/size][/center]
-[center][size=5][color=#1976D2]👀 I’m interested in learning[/color][/size][/center]
-[center][size=5][color=#FFC107]🌱 I’m currently learning Kotlin[/color][/size][/center]
-[center][size=5][color=#E91E63]💞️ I’m looking to collaborate on a project[/color][/size][/center]
-[center][size=5][color=#FF5722]📫 Reach me @ [email]gavinebenezer@gmail.com[/email][/color][/size][/center]
+- 👋 Hi, I’m @gavieeen
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on a project
+- 📫 Reach me @ gavinebenezer@gmail.com
 
 <!---
 gavieeen/gavieeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
