@@ -14,16 +14,16 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **gavinebenezer@gmail.com**
+- 📫 How to reach me -> **gavinebenezer@gmail.com**
 
 - ⚡ Fun fact **Glass perfectly balanced as all things should be.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gavieeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavieeen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gavin ebenezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gavin ebenezer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gavin-ebenezer-25837a261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gavin ebenezer" height="30" width="40" /></a>
 <a href="https://instagram.com/gavieeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gavieeen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gavinebenezer1670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gavinebenezer1670" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_HU0y9ApI2oJpbsy5n2_pw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gavinebenezer1670" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gavieeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gavieeen" height="30" width="40" /></a>
 </p>
 
