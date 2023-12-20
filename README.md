@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/OUPxj4L.png" alt="Banner" width="100%">
+</div>
 <h1 align="center">👋 Hi, I’m gavieeen</h1>
 <h3 align="center">₵$⋆UIUC 🌐 ꙰</h3>
 
