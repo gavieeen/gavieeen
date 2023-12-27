@@ -16,7 +16,8 @@
 
 - 📫 How to reach me -> **gavinebenezer@gmail.com**
 
-- ⚡ Fun fact **Glass perfectly balanced as all things should be.**
+- ⚡ Fun fact: **Glass ~~half-full~~ ~~half-empty~~ perfectly balanced as all things should be.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
